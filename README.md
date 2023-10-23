@@ -1,1 +1,1 @@
-# open space to learn Python 
+# Python SIDE PROJECTS
